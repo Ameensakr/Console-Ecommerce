@@ -28,8 +28,8 @@ git clone https://github.com/Ameensakr/Console-Ecommerce.git
 
 Compile the project (from the project root):
 
-```sh
-javac -d target/classes src/main/java/org/eCommerce/services/*.java src/main/java/org/eCommerce/models/*.java src/main/java/org/eCommerce/*.java
+```
+javac -d target/classes src/main/java/org/eCommerce/**/*.java
 ```
 
 Run the application:
