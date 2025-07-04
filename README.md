@@ -23,7 +23,7 @@ This is a simple e-commerce application built in Java. It allows users to browse
 Clone the repository:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Ameensakr/Console-Ecommerce.git
 ```
 
 Compile the project (from the project root):
@@ -37,17 +37,6 @@ Run the application:
 ```sh
 java -cp target/classes org.eCommerce.Main
 ```
-
-## Usage
-
-The application demonstrates the following scenarios in the `Main` class:
-
-1. **Successful checkout**
-2. **Checkout with insufficient balance**
-3. **Checkout with expired product**
-
-You can modify `Main.java` to try other scenarios or add new features as needed.
-
 ---
 
 Feel free to reach out if you have any questions or suggestions! 
